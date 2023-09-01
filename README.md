@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciskouaho" alt="franciskouaho" /></a> </p>
 
 
-<p align="left"> <a href="https://twitter.com/KouahoFrancis" target="blank"><img src="https://img.shields.io/twitter/follow/naoriuchiwa?logo=twitter&style=for-the-badge" alt="KouahoFrancis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KouahoFrancis" target="blank"><img src="https://img.shields.io/twitter/follow/KouahoFrancis?logo=twitter&style=for-the-badge" alt="KouahoFrancis" /></a> </p>
 
-- 🔭 I’m currently working on [LetsGO an application for tourist guides and excursions](https://letsg0.fr/)
+- 🔭 I’m currently working on [LetsGO an application for tourist guides and excursions](https://letsgoeurope.fr/)
 
 - 🌱 I’m currently learning **NextJS, GSAP - GreenSock...**
 
-- 👨‍💻 All of my projects are available at [http://kouahofrancis.com](http://kouahofrancis.com)
+- 👨‍💻 All of my projects are available at [[http://kouahofrancis.com]](https://www.kouahofrancis.com/)
 
 - 💬 Ask me about **ReactJS, VueJS, NuxtJS, NodeJS**
 
