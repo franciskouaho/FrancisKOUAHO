@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NextJS, GSAP - GreenSock...**
 
-- 👨‍💻 All of my projects are available at [[http://kouahofrancis.com]](https://www.kouahofrancis.com/)
+- 👨‍💻 All of my projects are available at [[https://kouahofrancis.com]](https://www.kouahofrancis.com/)
 
 - 💬 Ask me about **ReactJS, VueJS, NuxtJS, NodeJS**
 
